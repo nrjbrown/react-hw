@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Homer",
+      "image": "https://assets.fxnetworks.com/cms/prod/2016/11/simpsons_homer_1200x1200.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Marge",
+      "image": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_marge_1200x1200.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lisa",
+      "image": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_lisa_1200x1200.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Apu",
+      "image": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_apu_1200x1200.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Eddie",
+      "image": "https://desenhos.band.uol.com.br/wp-content/uploads/2017/12/Eddie-policial-div.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Krusty",
+      "image": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_krusty_1200x1200.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Carl",
+      "image": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_carl_1200x1200.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Rod Flanders",
+      "image": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_rod_1200x1200.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Barney",
+      "image": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_barney_1200x1200.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Moe",
+      "image": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_moe_1200x1200.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Millhouse",
+      "image": "https://assets.fxnetworks.com/cms/prod/2016/12/simpsonsworld_social_og_milhouse_1200x1200.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Chief Wiggum",
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/8/8b/Simpsonsworld_social_og_wiggum_1200x1200.jpg/revision/latest?cb=20180204012916"
+    }
+  ]

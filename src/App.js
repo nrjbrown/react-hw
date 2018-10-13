@@ -1,20 +1,15 @@
-import React, { Component } from 'react';
-import './App.css';
-// importing Component, should be with the same name as Component created.
-import Person from './Person/Person';
+import React from "react";
+import Title from "./components/Title/Title";
+import Wrapper from "./components/Wrapper";
+import Footer from "./components/Footer"
+import "./App.css";
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-      <h1>Hi I'm a react app!</h1>
-      <p>Working </p>
-      < Person name="Chris" age="28"/>
-      < Person name="Alix" age="27">This is an example of children</ Person>
-      </div>
-    );
-
-  }
-}
+const App = () => (
+  <div className="container-fluid mainContainer">
+    <Title />
+    <Wrapper />
+    <Footer />
+  </div>
+);
 
 export default App;
